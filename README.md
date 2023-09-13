@@ -12,9 +12,11 @@
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :computer: &nbsp;Connect with me on **[Twitter]**
-- 👌 Visit my **[Portfolio]**
 
 <br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h2 align="left" id="maximelbv-tech">Favorite Tech</h2>
 
