@@ -16,6 +16,15 @@
 <br>
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript       31 hrs 6 mins   ██████████████████░░░░░░░   71.66 %
+PHP              5 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
+Objective-C      2 hrs 58 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+SCSS             2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+TypeScript       14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2 align="left" id="maximelbv-tech">Favorite Tech</h2>
