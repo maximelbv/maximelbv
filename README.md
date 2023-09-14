@@ -1,6 +1,3 @@
-
-<h1 align="left" id="suhailkakar-title">Maxime Lefebvre</h1>
-
 Hi :wave: i am a **developer & designer** based in Paris. I currently work for [Welbees](https://www.welbees.com) as a software developer.<br /> I also study ML & data analysis at the [Multimedia School](https://www.ecole-multimedia.com/) a quarter of the time.
 
 <a href="https://www.instagram.com/maximelbv/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
