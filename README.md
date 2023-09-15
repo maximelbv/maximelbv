@@ -13,12 +13,21 @@ Hi :wave: i am a **developer & designer** based in Paris. I currently work for [
 #### This week i spent my time on ...
 <!--START_SECTION:waka-->
 
-```txt
-JavaScript       31 hrs 6 mins   ██████████████████░░░░░░░   71.66 %
-PHP              5 hrs 50 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Objective-C      2 hrs 58 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-SCSS             2 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-TypeScript       14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+```rust
+From: 11 August 2021 - To: 14 September 2023
+
+Total Time: 1,076 hrs 45 mins
+
+JavaScript                 601 hrs 17 mins >>>>>>>>>>>>>>-----------   55.63 %
+SCSS                       181 hrs 49 mins >>>>---------------------   16.82 %
+TypeScript                 107 hrs 43 mins >>-----------------------   09.97 %
+HTML                       61 hrs          >------------------------   05.64 %
+PHP                        31 hrs 40 mins  >------------------------   02.93 %
+JSON                       17 hrs 14 mins  -------------------------   01.60 %
+CSS                        12 hrs 34 mins  -------------------------   01.16 %
+Markdown                   11 hrs 4 mins   -------------------------   01.02 %
+SQL                        10 hrs 40 mins  -------------------------   00.99 %
+Vue.js                     9 hrs 12 mins   -------------------------   00.85 %
 ```
 
 <!--END_SECTION:waka-->
