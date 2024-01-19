@@ -10,9 +10,9 @@ Hi :wave: i am a **developer & designer** based in Paris. I currently work for [
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 58 mins
+Total Time: 18 hrs 21 mins
 
-JavaScript   17 hrs 58 mins  █████████████████████████   99.99 %
+JavaScript   18 hrs 21 mins  █████████████████████████   99.99 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
