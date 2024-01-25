@@ -10,13 +10,13 @@ Hi :wave: i am a **developer & designer** based in Paris. I currently work for [
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 58 mins
+Total Time: 18 hrs 11 mins
 
-JavaScript   10 hrs 40 mins  ███████████▓░░░░░░░░░░░░░   46.41 %
-TypeScript   6 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   27.47 %
-Python       2 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-SCSS         1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-TSConfig     46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+TypeScript   6 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   34.69 %
+JavaScript   5 hrs 53 mins   ████████░░░░░░░░░░░░░░░░░   32.32 %
+Python       2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 %
+SCSS         1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+TSConfig     46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
 ```
 
 <!--END_SECTION:waka-->
