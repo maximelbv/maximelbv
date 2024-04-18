@@ -6,21 +6,6 @@ Hi :wave: i am a **developer & designer** based in Paris. I currently work for [
 #### Other
 <img height="30" src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,blender,unreal,ableton" />
 
-#### This week i spent my time on ...
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 14 hrs 8 mins
-
-TypeScript   7 hrs 16 mins   █████████████░░░░░░░░░░░░   51.52 %
-JavaScript   5 hrs 46 mins   ██████████▒░░░░░░░░░░░░░░   40.89 %
-Bash         24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-```
-
-<!--END_SECTION:waka-->
-
 #### Socials
 
 <a href="https://www.instagram.com/maximelbv/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
