@@ -1,4 +1,4 @@
-Hi 👋 I'm a **developer & designer** based in Toulouse.<br />
+Hi 👋 I'm a **developer & designer** based in France.<br />
 Previously worked at [Welbees](https://www.welbees.com) & studied at the [Multimedia School](https://www.ecole-multimedia.com/). <br />
 Currently experimenting with 3D, animation, and interactive experiences ✨
 
