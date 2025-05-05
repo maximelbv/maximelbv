@@ -1,11 +1,11 @@
 Hi 👋 I'm a **developer & designer** based in France.<br />
 Previously worked at [Welbees](https://www.welbees.com) & studied at the [Multimedia School](https://www.ecole-multimedia.com/). <br />
-Currently experimenting with 3D, animation, and interactive experiences ✨
+Currently experimenting with Data, 3D, animation, and interactive experiences ✨
 
 I'm open to new opportunities ! [Contact me](mailto:contact@maximelbv.com)
 
 #### Main technologies
-<img height="30" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,threejs,nodejs,nestjs,postgres,mongodb,git,docker" />
+<img height="30" src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,threejs,nodejs,nestjs,python,postgres,mongodb,git,docker" />
 
 #### Other
 <img height="30" src="https://skillicons.dev/icons?i=webflow,figma,ps,ai,ae,pr,blender,unreal,ableton,notion" />
